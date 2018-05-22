@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_e41d19eda45b5cc055c70e0aaa8c437783dfbe9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_d18109bbbdf91020a1937dffb7bbf27de51c3c6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_ec290a06633a61488f78e75d5c4cd99fb3066851\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_cad6539db2dd4f93626e117c8c2c2d23c10df641\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_5629d98dcbedbc507f319ce1d6b82471688eed40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_3b93993a9018e99b3a8c959c5fa169e5889e4e92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_bad2360724d34d49273052c5cde4228ef0fb25a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_0b0e2d8dc6f34b8be93ecf6e61754e78a4e37939\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_7dacdf243a0cf50960172651dbbd25e103963590\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_323f9696d44e8adf968e66900df750b059c43a07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_6c54842303a0643cd75b4c6ecdd36b6bf32646ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_a370ea9dfc3b5a203b37ee31ca7d6ff841771e93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_583648952bcfa999a608c594e1360165bb0f1657\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.19_e6e05061b5c98d31e90c190353f7f465f03cabb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_6cb3c7bd901a0cb0616f813033ec1ba998a457be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_14ddcac90681adcb9cd9aef564ce4079873223a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_164af93f0065fe739b7fc207fc694e05847f363e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_93372fbb93801658781950a35572e50081c770a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="528b275b580c13a5699b6ba259f967550afb2e3c">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8781b336b2f9c025ae17a2e5fc7373dbca471276\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_d82b03e6bcdd8cd4d7a3fa3951c514bf305a2d0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_1407fc1020d8d1cdb845a5738c89af4d04c86426\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.3.1_48c80172860e8792ee2e6431d3c41ee444f356ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_014911d5d17ee115a08d591ee16c8fd74c255ac5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_5a820b403e56c62b3a9c72ad416ffdb264a482b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_34d2c8b50be3a43862a96af5368a43446b6090a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_8b108c236a1863b6960a57021919ec7f8f51c1b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_78c1d13a4cf59e3469d367d2d3d1f4c5dff5a268\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_28d594ddbd9ba5d8106f8c9dfe07f82123acf9d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_04c393e22c3bc1fc0df60d949bb9e8d9aa621afa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_d7f7de04a921de6fd063a01c01c51dc126082f5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_3d7be4efd0e512c3d6cda6d35e45f5f215b3dee9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_7aebc388635722e09a4a26bf0122e3beb8412291\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_9908579a268ba1b0ecff2337d0dcd568b3f00ebc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_15cb1f900b974e1911a4c59525b92238993cde5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_66da1c35a319f4acfcd6bd17324a1f604d618ddf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_a0b292c422930a11a6f4920c8f1218d67266e93b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_2bdbb18cb40286110cf56a0b2d68f694a93f42cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_fe7313a1ae60514cd90fc5410bbf9de9998bec04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.1_2f5314851fd6311b94f57f3b903ed9b07bd129ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_6a48f5ce12895fcb64ee68dfbf35c77df7a0f19f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="abc161b593846099b245472d9ec396aef43a12ff">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_82bfea4d6a7ff9a2f78ded652c4873edb48f4a4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_6f364470a5cde40540b56ad3ca2ae087a4e95ad3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_3b845f0de2205c8eded14a1f15389f51cf771803\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_0fa5068977b516e6e475358ed8d98b7df5cda369\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_16cd4395eaeafb756a2ab346ad034191258c4a41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_523d56c261e3f5215332b87c483b06fc4dccc519\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_3ba8f368a17fb6b57070c0ecc14d614412c8b94c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.3.1_94fd3bf710c53189f6fb2f0c3c9d0acf1b314f14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_15167ad8ad6b3e84eee6dfd1f19eaed1c6c89753\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_2b24c7c7794c836dbe7ff944a847a149e532523b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_a07bbb9a322d4180cd8aa41876d5ad50f7d09bb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_78e068af33e15199781b747d420d66d6a8566149\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_74ce6c82bab943bb6a1b94117c23dbef6402478d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_3493b3cdd1bac1c6d4eff4fde09980b728f41626\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_ad1c318da96d3da4a3bfff11764efe46fcb3a0e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_4c5c9ad37c9fab1196670fdbdeaf6fb51939cc2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_dcfa4de85a7a9b624df80cf0e229ef6254e2be1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_31b4ac0e16f4841cb170dc92dc5521eae93348fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_2954448f6988082ede6e41e4bd4c6cde09631611\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_cd07f6680d1b6639122789c2b144e72a84863dc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_56f8796aa283afa625c16cd2911f3d4ed80f3af2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_d1eebddee6c67b808451d8280b91ff9aab652697\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_7488c5c9c8a20a8bdf90c45d73bf20d587b0a5b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_c19f3fb98c38418e869fc19163221dcb2995535a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_baca980d9e89f31b3e31673258a8a5664884e1bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_31d25266fa75633bebfa4a37cdadfedf4ddc63e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\emalug\Google Drive\AppTaxisV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_ee9dd2cee8ab147832d8d45d77d43ee8dcd1ab51\classes.dex" />
+    </item>
+
+</items>
