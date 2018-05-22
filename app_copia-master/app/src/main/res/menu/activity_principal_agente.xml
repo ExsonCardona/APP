@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_consultar"
+            android:icon="@drawable/ic_library_books_black_24dp"
+            android:title="Consultar" />
+        <item
+            android:id="@+id/nav_multas"
+            android:icon="@drawable/ic_receipt_black_24dp"
+            android:title="Multar" />
+        <item
+            android:id="@+id/nav_costoMultas"
+            android:icon="@drawable/ic_description_black_24dp"
+            android:title="Costo Multas" />
+        <item
+            android:id="@+id/nav_topVehiculos"
+            android:icon="@drawable/ic_directions_car_black_24dp"
+            android:title="Top Vehículos" />
+        <item
+            android:id="@+id/nav_miCuenta"
+            android:icon="@drawable/ic_person_pin_black_24dp"
+            android:title="Mi Cuenta" />
+        <item
+            android:id="@+id/nav_addUser"
+            android:icon="@drawable/ic_add_box_black_24dp"
+            android:title="Agregar Usuario" />
+        <item
+            android:id="@+id/nav_X"
+            android:icon="@drawable/ic_highlight_off_black_24dp"
+            android:title="Cerrar Sesión" />
+    </group>
+
+    <!--<item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>-->
+
+</menu>

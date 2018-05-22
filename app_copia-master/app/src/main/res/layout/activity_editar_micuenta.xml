@@ -1,0 +1,161 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.cdgal.proyecto_ingsoft.EditarMiCuenta"
+    android:background="@drawable/formulario2" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:gravity="center"
+                android:paddingTop="120sp"
+                android:text="EDITAR MI CUENTA"
+                android:textColor="#091F34"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:layout_marginTop="25dp"
+                android:baselineAligned="true"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/nombre"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="12"
+                    android:drawableRight="@drawable/ic_person_outline_black_24dp"
+                    android:hint="Nombre"
+                    android:textColorHint="#607687"
+                    android:textColor="#091F34"
+                    android:textSize="14sp"
+                    android:text="Carlos Galvez"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:baselineAligned="true"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/correo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="12"
+                    android:drawableRight="@drawable/ic_email_black_24dp"
+                    android:hint="Correo Electrónico"
+                    android:textColorHint="#607687"
+                    android:textColor="#091F34"
+                    android:textSize="14sp"
+                    android:text="cdg.light@gmail.com"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:baselineAligned="true"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/numero"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="12"
+                    android:drawableRight="@drawable/ic_contact_phone_black_24dp"
+                    android:hint="Telefono"
+                    android:textColorHint="#607687"
+                    android:textColor="#091F34"
+                    android:textSize="14sp"
+                    android:text="+502-0000-0000"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:baselineAligned="true"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/password"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="12"
+                    android:drawableRight="@drawable/ic_lock_black_24dp"
+                    android:hint="Contraseña"
+                    android:textSize="14sp"
+                    android:inputType="textPassword"
+                    android:textColorHint="#607687"
+                    android:textColor="#091F34"
+                    android:focusable="false"
+                    android:text="12345678"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="60dp"
+                android:layout_marginRight="60dp"
+                android:layout_marginTop="50dp"
+                android:baselineAligned="true"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:layout_weight="3"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/editarCuenta"
+                    android:layout_width="35dp"
+                    android:layout_height="45dp"
+                    android:layout_weight="6"
+                    android:background="@drawable/shadow_red"
+                    android:text="Cancelar"
+                    android:textColor="@android:color/white"
+                    android:onClick="llamarMiCuenta"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:layout_weight="3"
+                    android:textColor="@android:color/white" />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

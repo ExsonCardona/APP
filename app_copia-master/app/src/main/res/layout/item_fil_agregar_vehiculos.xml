@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ListView_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:weightSum="1" >
+
+    <RelativeLayout
+        android:id="@+id/rl_ListView1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.5">
+
+        <TextView
+            android:id="@+id/vehiculo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textColor="#091F34"
+            android:textSize="16dp"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_ListView2"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.4"
+        android:layout_gravity="center">
+
+        <TextView
+            android:id="@+id/placa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textColor="#091F34"
+            android:textSize="16dp"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_ListView3"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.1">
+
+        <ImageView
+            android:id="@+id/flecha"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"/>
+
+    </RelativeLayout>
+</LinearLayout>

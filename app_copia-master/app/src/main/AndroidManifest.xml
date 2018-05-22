@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.cdgal.proyecto_ingsoft">
+
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name=".ActivityPrincipalAgente"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity android:name=".IniciarSesion">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".AddParticular"
+            android:parentActivityName=".IniciarSesion" />
+
+        <activity
+            android:name=".EditarMiCuenta"
+            android:parentActivityName=".ActivityPrincipalAgente" />
+
+        <activity android:name=".Main2Activity"></activity>
+
+        <activity
+            android:name=".ActivityPrincipalParticular"
+            android:label="@string/title_activity_principal_particular"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity android:name=".EditarVehiculo"
+            android:parentActivityName=".ActivityPrincipalParticular"/>
+
+        <activity android:name=".NuevoVehiculo"
+            android:parentActivityName=".ActivityPrincipalParticular"/>
+
+        <activity
+            android:name=".consultarVehiculo"
+            android:parentActivityName=".ActivityPrincipalParticular"></activity>
+    </application>
+
+</manifest>

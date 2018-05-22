@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_addvehiculo"
+            android:icon="@drawable/ic_add_box_black_24dp"
+            android:title="Agregar Vehículo" />
+        <item
+            android:id="@+id/nav_top"
+            android:icon="@drawable/ic_directions_car_black_24dp"
+            android:title="Top" />
+        <item
+            android:id="@+id/nav_costoMultas"
+            android:icon="@drawable/ic_description_black_24dp"
+            android:title="Costos de Multas" />
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/ic_library_books_black_24dp"
+            android:title="Información" />
+
+        <item
+            android:id="@+id/nav_miCuenta"
+            android:icon="@drawable/ic_add_box_black_24dp"
+            android:title="Mi Cuenta" />
+
+        <item
+            android:id="@+id/nav_X"
+            android:icon="@drawable/ic_highlight_off_black_24dp"
+            android:title="Cerrar Sesión" />
+    </group>
+
+</menu>

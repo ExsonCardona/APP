@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ListView_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:weightSum="1">
+
+    <RelativeLayout
+        android:id="@+id/rl_ListView1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.7"
+        android:gravity="fill_horizontal">
+
+        <TextView
+            android:id="@+id/desfaltcono"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/itemmargin"
+            android:text="TextView"
+            android:textColor="#091F34"
+            android:textSize="15dp"
+            android:gravity="fill_horizontal"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_ListView2"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.3"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/cosfaltcono"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:layout_margin="@dimen/itemmargin"
+            android:textColor="#091F34"
+            android:textSize="15dp"
+            android:gravity="fill_horizontal" />
+
+    </RelativeLayout>
+</LinearLayout>

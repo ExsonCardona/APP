@@ -1,0 +1,138 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.cdgal.proyecto_ingsoft.EditarVehiculo"
+    android:background="@drawable/formulario2" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:gravity="center"
+                android:paddingTop="120sp"
+                android:text=".:. EDITAR VEHICULO .:."
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="#091F34"/>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:layout_marginTop="25dp"
+                android:baselineAligned="true"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/alias"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="12"
+                    android:drawableRight="@drawable/ic_contact_phone_black_24dp"
+                    android:hint="Alias"
+                    android:textSize="14sp"
+                    android:textColor="#091F34"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:baselineAligned="true"
+                android:orientation="horizontal"
+                android:layout_marginTop="12dp">
+
+                <Spinner
+                    android:id="@+id/tipo_placa"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="9"
+                    android:textSize="14sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:baselineAligned="true"
+                android:orientation="horizontal"
+                android:layout_marginTop="12dp">
+
+                <EditText
+                    android:id="@+id/numero"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="12"
+                    android:drawableRight="@drawable/ic_keyboard_hide_black_24dp"
+                    android:hint="Número de placa"
+                    android:textSize="14sp"
+                    android:textColor="#091F34"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="60dp"
+                android:layout_marginRight="60dp"
+                android:layout_marginTop="50dp"
+                android:baselineAligned="true"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/editarCuenta"
+                    android:layout_width="35dp"
+                    android:layout_height="45dp"
+                    android:layout_weight="5"
+                    android:background="@drawable/shadow_blue"
+                    android:text="Guardar"
+                    android:textColor="@android:color/white"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:layout_weight="1"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/cancelarVehiculo"
+                    android:layout_width="35dp"
+                    android:layout_height="45dp"
+                    android:layout_weight="6"
+                    android:background="@drawable/shadow_red"
+                    android:text="Cancelar"
+                    android:textColor="@android:color/white"
+                    android:onClick="llamarAgregarVehiculo" />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
